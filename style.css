@@ -1,0 +1,22 @@
+p{
+
+	color: white;
+}
+
+img {
+width: 400px;
+height: 400px;
+margin: auto;
+
+}
+
+body{
+background-image: url(https://i.imgur.com/KGfNA9Q.jpg);
+background-repeat: no-repeat; 
+background-size: cover;
+}
+
+.container {
+	width: 1000px;
+	margin: auto;
+}
